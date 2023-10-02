@@ -6,6 +6,8 @@
 
 ![Josiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=josielbatista&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josielbatista&layout=compact)
+
 ## Technologies i use in my day
 
 <div style="display: inline_block"><br/>
